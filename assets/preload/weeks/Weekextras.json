@@ -1,0 +1,85 @@
+{
+	"storyName": "this is a fucking good mod",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "sonic",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"endless",
+			"majin",
+			[
+				0,
+				0,
+				153
+			]
+		],
+		[
+			"cycles",
+			"lordx",
+			[
+				80,
+				80,
+				255
+			]
+		],
+		[
+			"faker",
+			"faker",
+			[
+				0,
+				0,
+				153
+			]
+		],
+		[
+			"black-sun",
+			"exe",
+			[
+				0,
+				0,
+				153
+			]
+		],
+		[
+			"milk",
+			"sunky",
+			[
+				0,
+				0,
+				153
+			]
+		],
+		[
+			"too-fest",
+			"sanic",
+			[
+				0,
+				0,
+				153
+			]
+		],
+		[
+			"sunshine",
+			"tails2",
+			[
+				255,
+				95,
+				0
+			]
+		]
+	],
+	"weekName": "EXTRAS"
+}
